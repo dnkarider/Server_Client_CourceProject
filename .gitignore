@@ -1,0 +1,42 @@
+.idea/
+target/
+<<<<<<< HEAD
+.gradle/
+gradle/
+build/
+output/
+release/
+debug/
+data2.json
+new_data_json
+=======
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+.idea/
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+>>>>>>> f11a5e6d2c9c5de44f65922b4610f6d31f7436e7
